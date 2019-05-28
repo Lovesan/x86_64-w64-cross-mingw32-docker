@@ -8,11 +8,11 @@ You can obtain an image from Docker Hub:
 
 You can also try specific version:
 
-```docker pull love5an/x86_64-w64-cross-mingw32:8.3.0```
+```docker pull love5an/x86_64-w64-cross-mingw32:9.1.0```
 
 ## Contents
 
-Images are based on corresponding official **GCC** images, e.g. ```gcc:8.3.0```
+Images are based on corresponding official **GCC** images, e.g. ```gcc:9.1.0```
 
 Official images use Debian Linux.
 
